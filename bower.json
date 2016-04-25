@@ -1,8 +1,8 @@
 {
   "name": "x-editable",
   "main": [
-    "dist/jquery-editable/css/jquery-editable.css",
-    "dist/jquery-editable/js/jquery-editable-poshytip.js"
+    "dist/jqueryui-editable/css/jqueryui-editable.css",
+    "dist/jqueryui-editable/js/jqueryui-editable.js"
   ],
   "ignore": [
     "CHANGELOG.txt",
