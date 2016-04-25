@@ -1,5 +1,9 @@
 {
   "name": "x-editable",
+  "main": [
+    "dist/jquery-editable/css/jquery-editable.css",
+    "dist/jquery-editable/js/jquery-editable-poshytip.js"
+  ],
   "ignore": [
     "CHANGELOG.txt",
     "Gruntfile.js",
